@@ -1,0 +1,2 @@
+Poné acá tu imagen de fondo con el nombre exacto: fondo.jpg
+(Tiene que ser horizontal, de 1920x1080 o más grande para que se vea bien.)
